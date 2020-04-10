@@ -1,0 +1,14 @@
+D:\Workspace\Visual Studio 2019\Shopify2\Shopify2\bin\Debug\Shopify2.exe.config
+D:\Workspace\Visual Studio 2019\Shopify2\Shopify2\bin\Debug\Shopify2.exe
+D:\Workspace\Visual Studio 2019\Shopify2\Shopify2\bin\Debug\Shopify2.pdb
+D:\Workspace\Visual Studio 2019\Shopify2\Shopify2\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Workspace\Visual Studio 2019\Shopify2\Shopify2\bin\Debug\System.Data.SQLite.dll
+D:\Workspace\Visual Studio 2019\Shopify2\Shopify2\bin\Debug\System.Data.SQLite.xml
+D:\Workspace\Visual Studio 2019\Shopify2\Shopify2\bin\Debug\System.Data.SQLite.dll.config
+D:\Workspace\Visual Studio 2019\Shopify2\Shopify2\obj\Debug\Shopify2.Form1.resources
+D:\Workspace\Visual Studio 2019\Shopify2\Shopify2\obj\Debug\Shopify2.Properties.Resources.resources
+D:\Workspace\Visual Studio 2019\Shopify2\Shopify2\obj\Debug\Shopify2.csproj.GenerateResource.cache
+D:\Workspace\Visual Studio 2019\Shopify2\Shopify2\obj\Debug\Shopify2.csproj.CopyComplete
+D:\Workspace\Visual Studio 2019\Shopify2\Shopify2\obj\Debug\Shopify2.exe
+D:\Workspace\Visual Studio 2019\Shopify2\Shopify2\obj\Debug\Shopify2.pdb
+D:\Workspace\Visual Studio 2019\Shopify2\Shopify2\obj\Debug\Shopify2.csprojAssemblyReference.cache
